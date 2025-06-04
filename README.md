@@ -1,4 +1,3 @@
-# Photoshop-Design-Project
 # Photoshop Design Project
 
 This repo includes:
